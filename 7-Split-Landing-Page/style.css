@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-
 :root {
     --left-bg-color: rgba(87, 84, 236, 0.7);
     --right-bg-color: rgba(43, 43, 43, 0.8);
@@ -17,10 +16,6 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
     height: 100vh;
     overflow: hidden;
     margin: 0;
@@ -108,7 +103,7 @@ h1 {
 }
 
 .split.right, .split.left, .split.right::before, .split.left::before {
-    transition: all var(-speed) ease-in-out;
+    transition: all var(--speed) ease-in-out;
 }
 
 .hover-left .left {
