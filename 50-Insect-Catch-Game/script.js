@@ -7,9 +7,12 @@ const scoreEl = document.getElementById('score')
 const message = document.getElementById('message')
 let seconds = 0
 let score = 0
-let selected_insect = {}
+let selected_insect = {}  
 
-start_btn.addEventListener('click', () => screens[0].classList.add('up'))
+start_btn.addEventListener('click', () => {
+    screens[0].classList.add('up')
+    console.log("Start game")
+})
 
 choose_insect_btns.forEach(btn => {
     btn.addEventListener('click', () => {
@@ -20,6 +23,8 @@ choose_insect_btns.forEach(btn => {
         screens[1].classList.add('up')
         setTimeout(createInsect, 1000)
         startGame()
+        console.log("Choosen insect")
+        console.log(screens)
     })
 })
 

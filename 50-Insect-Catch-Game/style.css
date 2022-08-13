@@ -49,9 +49,9 @@ h1 {
   transition: margin 0.5s ease-out;
 }
 
-/* .screen.up {
+.screen.up {
   margin-top: -100vh;
-} */
+}
 
 .insects-list {
   display: flex;
