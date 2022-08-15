@@ -1,6 +1,6 @@
 const smallCups = document.querySelectorAll('.cup-small')
 const liters = document.getElementById('liters')
-const percentage = document.getElementById('percentange')
+const percentage = document.getElementById('percentage')
 const remained = document.getElementById('remained')
 
 updateBigCup()
@@ -10,8 +10,8 @@ smallCups.forEach((cup, idx) => {
 })
 
 function highlightCups(idx) {
-    if(smallCups[idx].classList.contains('full') && 
-    !smallCups[idx].nextElementSibling.classList.contains('full')) {
+    if (idx===7 && smallCups[idx].classList.contains("full")) idx--;
+    else if(smallCups[idx].classList.contains('full') && !smallCups[idx].nextElementSibling.classList.contains('full')) {
         idx--
     }
 
@@ -44,6 +44,6 @@ function updateBigCup() {
         remained.style.height = 0
     } else {
         remained.style.visibility = 'visible'
-        liters.innerHTML = `${2 - (250 * fullCups / 1000)}L`
+        liters.innerText = `${2 - (250 * fullCups / 1000)}L`
     }
 }

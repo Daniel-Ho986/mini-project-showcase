@@ -21,10 +21,14 @@ body {
 
 .sub-container {
     border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
 }
 
 .sub-container img {
-
+    object-fit: cover;
+    width: 125px;
+    height: 60px;
 }
 
 .sub-container a:visited {
