@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Expanding Cards",
+        "image_src": "/images/1-expanding-cards.png",
+        "image_alt": "expanding-cards",
+        "repo": "/1-Expanding-Cards",
+        "demo": "/1-Expanding-Cards/index.html"
+    },
+    {
+        "title": "Progress Steps",
+        "image_src": "/images/2-progress-steps.png",
+        "image_alt": "progress-steps",
+        "repo": "/2-Progress-Steps",
+        "demo": "/2-Progress-Steps/index.html"
+    }
+]
