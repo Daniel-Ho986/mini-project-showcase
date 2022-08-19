@@ -1,16 +1,346 @@
 [
     {
         "title": "Expanding Cards",
-        "image_src": "/images/1-expanding-cards.png",
+        "image_src": "1-expanding-cards.png",
         "image_alt": "expanding-cards",
-        "repo": "/1-Expanding-Cards",
-        "demo": "/1-Expanding-Cards/index.html"
+        "repo": "1-Expanding-Cards",
+        "demo": "1-Expanding-Cards/index.html"
     },
     {
         "title": "Progress Steps",
-        "image_src": "/images/2-progress-steps.png",
+        "image_src": "2-progress-steps.png",
         "image_alt": "progress-steps",
-        "repo": "/2-Progress-Steps",
-        "demo": "/2-Progress-Steps/index.html"
+        "repo": "2-Progress-Steps",
+        "demo": "2-Progress-Steps/index.html"
+    },
+    {
+        "title": "Rotating Navigation",
+        "image_src": "3-rotating-navigation.png",
+        "image_alt": "rotating-navigation",
+        "repo": "3-Rotating-Navigation",
+        "demo": "3-Rotating-Navigation/index.html"
+    },
+    {
+        "title": "Hidden Search Widget",
+        "image_src": "4-hidden-search-widget.png",
+        "image_alt": "hidden-search-widget",
+        "repo": "4-Hidden-Search-Widget",
+        "demo": "4-Hidden-Search-Widget/index.html"
+    },
+    {
+        "title": "Blurry Loading",
+        "image_src": "5-blurry-loading.png",
+        "image_alt": "blurry-loading",
+        "repo": "5-Blurry-Loading",
+        "demo": "5-Blurry-Loading/index.html"
+    },
+    {
+        "title": "Scroll Animation",
+        "image_src": "6-scroll-animation.png",
+        "image_alt": "scroll-animation",
+        "repo": "6-Scroll-Animation",
+        "demo": "6-Scroll-Animation/index.html"
+    },
+    {
+        "title": "Split Landing Page",
+        "image_src": "7-split-landing-page.png",
+        "image_alt": "split-landing-page",
+        "repo": "7-Split-Landing-Page",
+        "demo": "7-Split-Landing-Page/index.html"
+    },
+    {
+        "title": "Form Wave Animation",
+        "image_src": "8-form-wave-animation.png",
+        "image_alt": "form-wave-animation",
+        "repo": "8-Form-Wave-Animation",
+        "demo": "8-Form-Wave-Animation/index.html"
+    },
+    {
+        "title": "Sound Board",
+        "image_src": "9-sound-board.png",
+        "image_alt": "sound-board",
+        "repo": "9-Sound-Board",
+        "demo": "9-Sound-Board/index.html"
+    },
+    {
+        "title": "Dad Jokes",
+        "image_src": "10-dad-jokes.png",
+        "image_alt": "dad-jokes",
+        "repo": "10-Dad-Jokes",
+        "demo": "10-Dad-Jokes/index.html"
+    },
+    {
+        "title": "Event KeyCodes",
+        "image_src": "11-event-keycodes.png",
+        "image_alt": "event-keycodes",
+        "repo": "11-Event-KeyCodes",
+        "demo": "11-Event-KeyCodes/index.html"
+    },
+    {
+        "title": "FAQ Collapse",
+        "image_src": "12-faq-collapse.png",
+        "image_alt": "faq-collapse",
+        "repo": "12-FAQ-Collapse",
+        "demo": "12-FAQ-Collapse/index.html"
+    },
+    {
+        "title": "Random Choice Picker",
+        "image_src": "13-random-choice-picker.png",
+        "image_alt": "random-choice-picker",
+        "repo": "13-Random-Choice-Picker",
+        "demo": "13-Random-Choice-Picker/index.html"
+    },
+    {
+        "title": "Animated Navigation",
+        "image_src": "14-animated-navigation.png",
+        "image_alt": "animated-navigation",
+        "repo": "14-Animated-Navigation",
+        "demo": "14-Animated-Navigation/index.html"
+    },
+    {
+        "title": "Incrementing Counter",
+        "image_src": "15-incrementing-counter.png",
+        "image_alt": "incrementing-counter",
+        "repo": "15-Incrementing-Counter",
+        "demo": "15-Incrementing-Counter/index.html"
+    },
+    {
+        "title": "Drink Water",
+        "image_src": "16-drink-water.png",
+        "image_alt": "drink-water",
+        "repo": "16-Drink-Water",
+        "demo": "16-Drink-Water/index.html"
+    },
+    {
+        "title": "Movie App",
+        "image_src": "17-movie-app.png",
+        "image_alt": "movie-app",
+        "repo": "17-Movie-App",
+        "demo": "17-Movie-App/index.html"
+    },
+    {
+        "title": "Background Slider",
+        "image_src": "18-background-slider.png",
+        "image_alt": "background-slider",
+        "repo": "18-Background-Slider",
+        "demo": "18-Background-Slider/index.html"
+    },
+    {
+        "title": "Theme Clock",
+        "image_src": "19-theme-clock.png",
+        "image_alt": "theme-clock",
+        "repo": "19-Theme-Clock",
+        "demo": "19-Theme-Clock/index.html"
+    },
+    {
+        "title": "Ripple Effect",
+        "image_src": "20-ripple-effect.png",
+        "image_alt": "ripple-effect",
+        "repo": "20-Ripple-Effect",
+        "demo": "20-Ripple-Effect/index.html"
+    },
+    {
+        "title": "Drag & Drop",
+        "image_src": "21-drag-n-drop.png",
+        "image_alt": "drag-n-drop",
+        "repo": "21-Drag-N-Drop",
+        "demo": "21-Drag-N-Drop/index.html"
+    },
+    {
+        "title": "Drawing App",
+        "image_src": "22-drawing-app.png",
+        "image_alt": "drawing-app",
+        "repo": "22-Drawing-App",
+        "demo": "22-Drawing-App/index.html"
+    },
+    {
+        "title": "Kineic CSS Loader",
+        "image_src": "23-kinetic-css-loader.png",
+        "image_alt": "kinetic-css-loader",
+        "repo": "23-Kinetic-CSS-Loader",
+        "demo": "23-Kinetic-CSS-Loader/index.html"
+    },
+    {
+        "title": "Content Placeholder",
+        "image_src": "24-content-placeholder.png",
+        "image_alt": "content-placeholder",
+        "repo": "24-Content-Placeholder",
+        "demo": "24-Content-Placeholder/index.html"
+    },
+    {
+        "title": "Sticky Navbar",
+        "image_src": "25-sticky-navbar.png",
+        "image_alt": "sticky-navbar",
+        "repo": "25-Sticky-Navbar",
+        "demo": "25-Sticky-Navbar/index.html"
+    },
+    {
+        "title": "Double Vertical Slider",
+        "image_src": "26-double-vertical-slider.png",
+        "image_alt": "double-vertical-slider",
+        "repo": "26-Double-Vertical-Slider",
+        "demo": "26-Double-Vertical-Slider/index.html"
+    },
+    {
+        "title": "Toast Notification",
+        "image_src": "27-toast-notification.png",
+        "image_alt": "toast-notification",
+        "repo": "27-Toast-Notification",
+        "demo": "27-Toast-Notification/index.html"
+    },
+    {
+        "title": "GitHub Profile",
+        "image_src": "28-github-profile.png",
+        "image_alt": "github-profile",
+        "repo": "28-Github-Profile",
+        "demo": "28-Github-Profile/index.html"
+    },
+    {
+        "title": "Double Click Heart",
+        "image_src": "29-double-click-heart.png",
+        "image_alt": "double-click-heart",
+        "repo": "29-Double-Click-Heart",
+        "demo": "29-Double-Click-Heart/index.html"
+    },
+    {
+        "title": "Auto Text Effect",
+        "image_src": "30-auto-text-effect.png",
+        "image_alt": "auto-text-effect",
+        "repo": "30-Auto-Text-Effect",
+        "demo": "30-Auto-Text-Effect/index.html"
+    },
+    {
+        "title": "Password Generator",
+        "image_src": "31-password-generator.png",
+        "image_alt": "password-generator",
+        "repo": "31-Password-Generator",
+        "demo": "31-Password-Generator/index.html"
+    },
+    {
+        "title": "Good Cheap Fast Checkboxes",
+        "image_src": "32-good-cheap-fast.png",
+        "image_alt": "good-cheap-fast-checkboxes",
+        "repo": "32-Good-Cheap-Fast-Checkboxes",
+        "demo": "32-Good-Cheap-Fast-Checkboxes/index.html"
+    },
+    {
+        "title": "Notes App",
+        "image_src": "33-notes-app.png",
+        "image_alt": "notes-app",
+        "repo": "33-Notes-App",
+        "demo": "33-Notes-App/index.html"
+    },
+    {
+        "title": "Animated Countdown",
+        "image_src": "34-animated-countdown.png",
+        "image_alt": "animated-countdown",
+        "repo": "34-Animated-Countdown",
+        "demo": "34-Animated-Countdown/index.html"
+    },
+    {
+        "title": "Image Carousel",
+        "image_src": "35-image-carousel.png",
+        "image_alt": "image-carousel",
+        "repo": "35-Image-Carousel",
+        "demo": "35-Image-Carousel/index.html"
+    },
+    {
+        "title": "Hoverboard",
+        "image_src": "36-hoverboard.png",
+        "image_alt": "hoverboard",
+        "repo": "36-Hoverboard",
+        "demo": "36-Hoverboard/index.html"
+    },
+    {
+        "title": "Pokedex",
+        "image_src": "37-pokedex.png",
+        "image_alt": "pokedex",
+        "repo": "37-Pokedex",
+        "demo": "37-Pokedex/index.html"
+    },
+    {
+        "title": "Mobile Tab Navigation",
+        "image_src": "38-mobile-tab-navigation.png",
+        "image_alt": "mobile-tab-navigation",
+        "repo": "38-Mobile-Tab-Navigation",
+        "demo": "38-Mobile-Tab-Navigation/index.html"
+    },
+    {
+        "title": "Password Strength",
+        "image_src": "39-password-strength.png",
+        "image_alt": "password-strength",
+        "repo": "39-Password-Strength",
+        "demo": "39-Password-Strength/index.html"
+    },
+    {
+        "title": "3D Background Boxes",
+        "image_src": "40-3d-background-boxes.png",
+        "image_alt": "3d-background-boxes",
+        "repo": "40-3D-Background-Boxes",
+        "demo": "40-3D-Background-Boxes/index.html"
+    },
+    {
+        "title": "Verify Account UI",
+        "image_src": "41-verify-account-ui.png",
+        "image_alt": "verify-account-ui",
+        "repo": "41-Verify-Account-UI",
+        "demo": "41-Verify-Account-UI/index.html"
+    },
+    {
+        "title": "Live User Filter",
+        "image_src": "42-live-user-filter.png",
+        "image_alt": "live-user-filter",
+        "repo": "42-Live-User-Filter",
+        "demo": "42-Live-User-Filter/index.html"
+    },
+    {
+        "title": "Feedback UI Design",
+        "image_src": "43-feedback-ui-design.png",
+        "image_alt": "feedback-ui-design",
+        "repo": "43-Feedback-UI-Design",
+        "demo": "43-Feedback-UI-Design/index.html"
+    },
+    {
+        "title": "Custom Range Slider",
+        "image_src": "44-custom-range-slider.png",
+        "image_alt": "custom-range-slider",
+        "repo": "44-Custom-Range-Slider",
+        "demo": "44-Custom-Range-Slider/index.html"
+    },
+    {
+        "title": "Netflix Mobile Navigation",
+        "image_src": "45-netflix-mobile-navigation.png",
+        "image_alt": "netflix-mobile-navigation",
+        "repo": "45-Netflix-Mobile-Navigation",
+        "demo": "45-Netflix-Mobile-Navigation/index.html"
+    },
+    {
+        "title": "Quiz App",
+        "image_src": "46-quiz-app.png",
+        "image_alt": "quiz-app",
+        "repo": "46-Quiz-App",
+        "demo": "46-Quiz-App/index.html"
+    },
+    {
+        "title": "Testimonial Box Switcher",
+        "image_src": "47-testimonial-box-switcher.png",
+        "image_alt": "testimonial-box-switcher",
+        "repo": "47-Testimonial-Box-Switcher",
+        "demo": "47-Testimonial-Box-Switcher/index.html"
+    },
+    {
+        "title": "Auto Text Effect",
+        "image_src": "30-auto-text-effect.png",
+        "image_alt": "auto-text-effect",
+        "repo": "30-Auto-Text-Effect",
+        "demo": "30-Auto-Text-Effect/index.html"
+    },
+    {
+        "title": "Auto Text Effect",
+        "image_src": "30-auto-text-effect.png",
+        "image_alt": "auto-text-effect",
+        "repo": "30-Auto-Text-Effect",
+        "demo": "30-Auto-Text-Effect/index.html"
     }
+
 ]
