@@ -329,18 +329,26 @@
         "demo": "47-Testimonial-Box-Switcher/index.html"
     },
     {
-        "title": "Auto Text Effect",
-        "image_src": "30-auto-text-effect.png",
-        "image_alt": "auto-text-effect",
-        "repo": "30-Auto-Text-Effect",
-        "demo": "30-Auto-Text-Effect/index.html"
+        "title": "Random Image Feed",
+        "image_src": "48-random-image-feed.png",
+        "image_alt": "random-image-feed",
+        "repo": "48-Random-Image-Feed",
+        "demo": "48-Random-Image-Feed/index.html"
     },
     {
-        "title": "Auto Text Effect",
-        "image_src": "30-auto-text-effect.png",
-        "image_alt": "auto-text-effect",
-        "repo": "30-Auto-Text-Effect",
-        "demo": "30-Auto-Text-Effect/index.html"
+        "title": "Todo List",
+        "image_src": "49-todo-list.png",
+        "image_alt": "todo-list",
+        "repo": "49-Todo-List",
+        "demo": "49-Todo-List/index.html"
+    },
+    {
+        "title": "Insect Catch Game",
+        "image_src": "50-insect-catch-game.png",
+        "image_alt": "insect-catch-game",
+        "repo": "50-Insect-Catch-Game",
+        "demo": "50-Insect-Catch-Game/index.html"
     }
+
 
 ]
