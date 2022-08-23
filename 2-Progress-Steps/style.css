@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 :root {
-    --line-border-fill: #3498db;
+    --line-border-fill: #66e864;
     --line-border-empty: #e0e0e0;
 }
 * {
@@ -57,10 +57,10 @@ body {
     transition: 0.4s ease;
 }
 
-.circle {
+.square {
     background-color: #fff;
     color: #999;
-    border-radius: 50%;
+    border-radius: 5px;
     height: 30px;
     width: 30px;
     display: flex;
@@ -70,7 +70,7 @@ body {
     transition: 0.4s ease;
 }
 
-.circle.active {
+.square.active {
     border-color: var(--line-border-fill);
 }
 

@@ -14,6 +14,15 @@ body {
     margin: 0;
 }
 
+h1 {
+    display: inline-block;
+    color: #fa5246;
+    font-family: 'Righteous', serif;
+    font-size: 6em; 
+    text-shadow: .03em .03em 0 rgb(117, 124, 164);
+    text-align: center;
+}
+
 .showcase-container {
     display: flex;
     align-items: space-around;
@@ -41,12 +50,16 @@ body {
 
 .title {
     margin: auto 15px;
-    font-size: 22px;
+    font-size: 19px;
     font-weight: bold;
     text-decoration: none;
     color: #475d5b;
     position: absolute;
     bottom: 60px;
+}
+
+.title:hover {
+    color: #00473e;
 }
 
 .repo, .repo:visited {
