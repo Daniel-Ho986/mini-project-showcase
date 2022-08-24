@@ -1,22 +1,16 @@
 [
     {
         "title": "Expanding Cards",
-        "image_src": "1-expanding-cards.png",
-        "image_alt": "expanding-cards",
         "repo": "1-Expanding-Cards",
         "demo": "1-Expanding-Cards/index.html"
     },
     {
         "title": "Progress Steps",
-        "image_src": "2-progress-steps.png",
-        "image_alt": "progress-steps",
         "repo": "2-Progress-Steps",
         "demo": "2-Progress-Steps/index.html"
     },
     {
         "title": "Rotating Navigation",
-        "image_src": "3-rotating-navigation.png",
-        "image_alt": "rotating-navigation",
         "repo": "3-Rotating-Navigation",
         "demo": "3-Rotating-Navigation/index.html"
     },
