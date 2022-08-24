@@ -1,6 +1,6 @@
 const showcase = document.getElementById('showcase');
 
-fetch('/projects/projects.json')
+fetch('projects/projects.json')
     .then(results => results.json())
     .then(data => {
         for (let i = 0; i < data.length; i++) {
