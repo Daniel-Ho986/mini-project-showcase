@@ -1,4 +1,4 @@
-# 50-mini-projects
+# Mini Projects
 
 [Visit Site](https://daniel-ho986-mini-projects.netlify.app/)
 
