@@ -13,7 +13,7 @@ fetch('projects/projects.json')
             <img src="/projects/images/${data[i].image_src}" alt="${data[i].image_alt}"></img>
             <a class="title" href="projects/${data[i].demo}">${data[i].title}</a>
             <button class="btn">
-                <a class="repo" href="https://github.com/Daniel-Ho986/50-mini-projects/tree/main/projects/${data[i].repo}">Repository</a>
+                <a class="repo" href="https://github.com/Daniel-Ho986/mini-projects-showcase/tree/main/projects/${data[i].repo}">Repository</a>
             </button>
             `
             showcase.appendChild(project)
