@@ -1,152 +1,53 @@
 [
-    {
-        "title": "Expanding Cards"
-    },
-    {
-        "title": "Progress Steps"
-    },
-    {
-        "title": "Rotating Navigation"
-    },
-    {
-        "title": "Hidden Search Widget"
-    },
-    {
-        "title": "Blurry Loading"
-    },
-    {
-        "title": "Scroll Animation"
-    },
-    {
-        "title": "Split Landing Page"
-    },
-    {
-        "title": "Form Wave Animation"
-    },
-    {
-        "title": "Sound Board"
-    },
-    {
-        "title": "Dad Jokes"
-    },
-    {
-        "title": "Event KeyCodes"
-    },
-    {
-        "title": "FAQ Collapse"
-    },
-    {
-        "title": "Random Choice Picker"
-    },
-    {
-        "title": "Animated Navigation"
-    },
-    {
-        "title": "Incrementing Counter"
-    },
-    {
-        "title": "Drink Water"
-    },
-    {
-        "title": "Movie App"
-    },
-    {
-        "title": "Background Slider"
-    },
-    {
-        "title": "Theme Clock"
-    },
-    {
-        "title": "Ripple Effect"
-    },
-    {
-        "title": "Drag N Drop"
-    },
-    {
-        "title": "Drawing App"
-    },
-    {
-        "title": "Kinetic CSS Loader"
-    },
-    {
-        "title": "Content Placeholder"
-    },
-    {
-        "title": "Sticky Navbar"
-    },
-    {
-        "title": "Double Vertical Slider"
-    },
-    {
-        "title": "Toast Notification"
-    },
-    {
-        "title": "Github Profile"
-    },
-    {
-        "title": "Double Click Heart"
-    },
-    {
-        "title": "Auto Text Effect"
-    },
-    {
-        "title": "Password Generator"
-    },
-    {
-        "title": "Good Cheap Fast Checkboxes"
-    },
-    {
-        "title": "Notes App"
-    },
-    {
-        "title": "Animated Countdown"
-    },
-    {
-        "title": "Image Carousel"
-    },
-    {
-        "title": "Hoverboard"
-    },
-    {
-        "title": "Pokedex"
-    },
-    {
-        "title": "Mobile Tab Navigation"
-    },
-    {
-        "title": "Password Strength"
-    },
-    {
-        "title": "3D Background Boxes"
-    },
-    {
-        "title": "Verify Account UI"
-    },
-    {
-        "title": "Live User Filter"
-    },
-    {
-        "title": "Feedback UI Design"
-    },
-    {
-        "title": "Custom Range Slider"
-    },
-    {
-        "title": "Netflix Mobile Navigation"
-    },
-    {
-        "title": "Quiz App"
-    },
-    {
-        "title": "Testimonial Box Switcher"
-    },
-    {
-        "title": "Random Image Feed"
-    },
-    {
-        "title": "Todo List"
-    },
-    {
-        "title": "Insect Catch Game"
-    }
+    "Expanding Cards",
+    "Progress Steps",
+    "Rotating Navigation",
+    "Hidden Search Widget",
+    "Blurry Loading",
+    "Scroll Animation",
+    "Split Landing Page",
+    "Form Wave Animation",
+    "Sound Board",
+    "Dad Jokes",
+    "Event KeyCodes",
+    "FAQ Collapse",
+    "Random Choice Picker",
+    "Animated Navigation",
+    "Incrementing Counter",
+    "Drink Water",
+    "Movie App",
+    "Background Slider",
+    "Theme Clock",
+    "Ripple Effect",
+    "Drag N Drop",
+    "Drawing App",
+    "Kinetic CSS Loader",
+    "Content Placeholder",
+    "Sticky Navbar",
+    "Double Vertical Slider",
+    "Toast Notification",
+    "Github Profile",
+    "Double Click Heart",
+    "Auto Text Effect",
+    "Password Generator",
+    "Good Cheap Fast Checkboxes",
+    "Notes App",
+    "Animated Countdown",
+    "Image Carousel",
+    "Hoverboard",
+    "Pokedex",
+    "Mobile Tab Navigation",
+    "Password Strength",
+    "3D Background Boxes",
+    "Verify Account UI",
+    "Live User Filter",
+    "Feedback UI Design",
+    "Custom Range Slider",
+    "Netflix Mobile Navigation",
+    "Quiz App",
+    "Testimonial Box Switcher",
+    "Random Image Feed",
+    "Todo List",
+    "Insect Catch Game",
+    "Convert-Text-To-Speech"
 ]
