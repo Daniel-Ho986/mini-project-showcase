@@ -11,7 +11,7 @@ Welcome to the Mini Project Showcase repository! This repository contains a coll
 
 ## Getting Started
 
-To get started, simply visit the [Mini Project Showcase website](https://daniel-ho986-mini-projects.netlify.app/) and browse through the various projects. Each project comes with its own source code hosted on GitHub, allowing you to dive deeper into the code and understand how it works.
+To get started, simply visit the [Mini Project Showcase website](https://daniel-ho986-mini-project-showcase.netlify.app/) and browse through the various projects. Each project comes with its own source code hosted on GitHub, allowing you to dive deeper into the code and understand how it works.
 
 ## Contributing
 
