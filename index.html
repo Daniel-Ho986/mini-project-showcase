@@ -1,25 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-        <link rel="stylesheet" href="style.css">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
 
-        <title>Mini Project Showcase</title>
-    </head>
-    <body>
-        <h1>Mini Project Showcase</h1>
-        <div class="showcase-container" id="showcase">
-        </div>
-        
-        <script src='script.js'></script>
-    </body>
+    <title>Mini Project Showcase</title>
+</head>
+<body>
+    <h1>Mini Project Showcase</h1>
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search projects...">
+        <button onclick="searchProjects()"><i class="fas fa-search"></i></button>
+    </div>
+    <div class="total-projects" id="totalProjects"></div>
+    <div class="showcase-container" id="showcase"></div>
+    
+    <script src='script.js'></script>
+</body>
 </html>
-
-<!-- TODO: -->
-<!-- Add total project count animated -->
-<!-- Add search bar or tabs -->
-<!-- Add footer -->

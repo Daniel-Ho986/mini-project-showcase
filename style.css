@@ -15,12 +15,36 @@ body {
 }
 
 h1 {
-    display: inline-block;
     color: #fa5246;
     font-family: 'Righteous', serif;
     font-size: 6em; 
     text-shadow: .03em .03em 0 rgb(117, 124, 164);
     text-align: center;
+    margin-top: 20px;
+}
+
+.search-container {
+    margin-top: 20px;
+}
+
+.search-container input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.search-container button {
+    padding: 10px;
+    border: none;
+    background-color: #fa5246;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.total-projects {
+    margin-top: 20px;
+    font-size: 18px;
 }
 
 .showcase-container {
